@@ -2,7 +2,8 @@
 
 This repository contains the code used in the manuscript "Prediction of Antibody Non-Specificity using Protein Language Models and Biophysical Parameters". 
 
-Original publication: https://doi.org/10.1101/2025.04.28.650927
+Original publication: https://doi.org/10.1101/2025.04.28.650927  
+Zenodo (Harvey dataset): https://doi.org/10.5281/zenodo.17962178  
 
 ## Overview
 The development of therapeutic antibodies requires optimizing target binding affinity and pharmacodynamics, while ensuring high developability potential, including minimizing non-specific binding. In this study, we address this problem by predicting antibody non-specificity by two complementary approaches:
